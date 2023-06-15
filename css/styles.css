@@ -35,9 +35,6 @@ header{
     width: 100%;
     color: var(--color-letra-header);
 }
-header>p{
-    text-align: left;
-}
 a{
     text-decoration: none;
     margin: 1%;
