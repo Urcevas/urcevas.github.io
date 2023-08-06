@@ -3,11 +3,6 @@
     margin: 0;
     padding: 0%;
 }
-/* CARGA DE FUENTES */
-@font-face {
-    font-family: 'Action_Man' ;
-    src: url(../fonts/Action_Man.ttf);
-}
 /* PALETAS DE COLORES */
 :root{
     --color-header-y-footer:#78ae62;
