@@ -13,6 +13,17 @@
     --color-letra: #fffaf2;
     --color-letra-negrita: black;
 } 
+/* fondo animado */
+.fondo-animado{
+background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+background-size: 400% 400%;
+animation: animated-background 10s infinite ease-in-out;
+}
+@keyframes animated-background{
+0%{
+background-position: 0 50%;
+}
+}
 /* ------------------------------------------------------------------------
 	ELEMENTOS GENERALES
 ------------------------------------------------------------------------- */
